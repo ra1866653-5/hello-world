@@ -1,2 +1,8 @@
 # hello-world
-novo repositório 
+novo repositorio 
+
+# texto titulo
+
+**negrito**
+*itálico*
+
